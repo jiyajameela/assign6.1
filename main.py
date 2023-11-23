@@ -1,3 +1,4 @@
+####continuaton of the answers in the file two as for some reason , the code didn't work when put together.
 ########################################################1
 import random
 
@@ -88,3 +89,4 @@ while race_distance < 10000:
             exit()
 
     hour += 1
+#there is continuation in the next file as the code didn't work when put together with the other.
